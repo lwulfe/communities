@@ -1,0 +1,28 @@
+{
+  "name": "Freifunk Mettmann",
+  "url": "http://freifunk-mettmann.de/",
+  "location": {
+    "city": "Mettmann",
+    "country": "DE",
+    "lat": 51.25067,
+    "lon": 6.97403
+  },
+  "contact": {
+    "email": "kontakt@freifunk-mettmann.de",
+    "phone": "+491719502338",
+    "irc": "irc://irc.freenode.net/#ffrhein",
+    "facebook": "https://www.facebook.com/Freifunk.Mettmann/",
+    "twitter": "@FreifunkME"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "lastchange": "2015-12-29T20:22:15.918Z",
+    "focus": []
+  },
+  "api": "0.4.10",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
